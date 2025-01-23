@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cruad App</title>
+    <head>
+    <link rel="stylesheet" href="css/test.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    
+    </head>
+    <body>
+       <div class="container w-50 shadow my-5 py-5">
+        <h1>CRUproductPriceD system</h1>
+        <label>productName:</label>
+        <input id="productName" type="text" class="form-control">
+        <label>productCategory:</label>
+        <input id="productCategory" type="text" class="form-control">
+        <label>productPrice:</label>
+        <input id="productPrice" type="text" class="form-control">
+        <label>productDescription:</label>
+        <textarea id="productDescription" class="form-control"></textarea>
+          <button id="update" class="btn btn-outline-info my-3 " onclick="addProducts()"">add product</button>
+          <button class="btn btn-outline-info my-3" onclick="clearproduct()">clear</button>
+       </div>
+       <input type="text" placeholder="search..." id="searchInput" class="form-control w-25 mx-auto" onkeyup="searchProduct()">
+        <br>
+       <table class="table container">
+        <thead>
+          <th>index:</th>
+          <th>name:</th>
+          <th>category</th>
+          <th>price:</th>
+          <th>Update</th>
+          <th>delete</th>
+      </thead>
+      <tbody id="tbody">
+        
+      </tbody>
+       </table>
+        
+         <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/myScript.js"> </script>
+    </body>
+</html>

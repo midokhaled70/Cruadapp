@@ -1,0 +1,32 @@
+/* <div id="parent-1" class="container">
+  <span class="child boy" name="first-boy"> 👶 </span>
+  <span class="child boy"> 👶 </span>
+  <span class="child boy"> 👶 </span>
+   <pre> test </pre>
+</div>
+<div id="parent-2" class="container">
+  <span class="child girl" name=first-girl"> 👧 </span>
+  <span class="child girl"> 👧 </span>
+  <span class="child girl"> 👧 </span>
+</div> */
+
+/* <div id="parent-1" class="container">
+  <p> 👶 </p>
+  <span>sp</span>
+</div>
+ 
+let e = document.querySelector("span, p");
+e; // <p> 👶 </p> --> `p` element is above `span`
+
+e = document.querySelector("span, code");
+e; // <span>sp</span> --> because code element is not available  */
+
+/* <div id="parent-1" class="container">
+  <p> 👶 </p>
+  <span>sp</span>
+</div>
+ 
+let e = document.querySelectorAll("span, p");
+// [p, span] */
+
+
