@@ -59,8 +59,8 @@ project-folder/
 
 
 👤 Author
-Ahmed Khaled Elmetwaly
+Ahmed Khaled 
 
 
 📄 License
-This project is open-source and available under the MIDO License.
+This project is open-source and available under the MIDOKHALED License.
