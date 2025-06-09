@@ -41,6 +41,9 @@ Bootstrap 5 — For responsive design and layout
 JavaScript (Vanilla) — DOM manipulation, event handling, and data storage
 
 LocalStorage — Data persistence without a backend
+## ScreenShots
+--![q](https://github.com/user-attachments/assets/fa76faac-e563-4db7-96c7-49ad5bbd56ec)
+![d](https://github.com/user-attachments/assets/58b42c2f-4633-4e64-a4b2-ebf4c30abc9d)
 
 📂 File Structure
 graphql
