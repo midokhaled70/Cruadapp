@@ -1,4 +1,4 @@
-🛒 CRUproductPriceD System
+##🛒 CRUproductPriceD System
 A simple, user-friendly web application for managing product data (Create, Read, Update, Delete) — built using HTML, CSS, Bootstrap, and JavaScript, with persistent storage using the browser's LocalStorage.
 
 🚀 Project Description
