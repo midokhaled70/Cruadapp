@@ -62,7 +62,7 @@ project-folder/
 
 
 👤 **Author**
-**ahmed Khaled**
+**Ahmed Khaled**
 
 
 📄 License
