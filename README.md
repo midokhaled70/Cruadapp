@@ -62,7 +62,7 @@ project-folder/
 
 
 👤 **Author**
-**M Khaled**
+**Mi Khaled**
 
 
 📄 License
